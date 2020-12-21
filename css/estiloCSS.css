@@ -1,0 +1,19 @@
+body
+{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red
+}
+
+.container{
+    margin: 0px 70px 0px 70px;
+    border: 1px solid;
+    padding: 30px;
+}
+
+.parrafo{
+    background-color: brown;
+    color: gray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
